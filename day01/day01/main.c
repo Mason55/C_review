@@ -53,7 +53,7 @@ void sortArray(int * a,int num)
     }
 }
 
-int main()
+int main01()
 {
     //int i = 0,j=0;
     int a[]={23,56,89,74,51,87,852,441,54};
